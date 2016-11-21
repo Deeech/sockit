@@ -1,0 +1,22 @@
+{
+  "name": "sockit",
+  "version": "0.0.1",
+  "description": "socket wrapper",
+  "main": "sockit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deeech/sockit.git"
+  },
+  "keywords": [
+    "socket"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deeech/sockit/issues"
+  },
+  "homepage": "https://github.com/Deeech/sockit#readme"
+}
